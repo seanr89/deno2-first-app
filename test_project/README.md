@@ -16,7 +16,7 @@ allow script access
 deno run --allow-all main.ts
 ```
 
-test
+can also run
 ```
-deno test
+deno task dev
 ```
